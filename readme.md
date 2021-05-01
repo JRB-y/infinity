@@ -1,5 +1,6 @@
-# A Task API make with node, typescript, graphql and mongoose
-
+# 🤟 A Task API
+## Made with nodejs, typescript, graphql and mongoose
+### Features
 [X] Create User (name, email, password)
 
 [ ] Delete User
